@@ -1,6 +1,7 @@
 ![](https://github.com/HPFelipe/HPFelipe/blob/main/logo5.PNG?raw=true)
-![header](https://capsule-render.vercel.app/api?&type=transparent&reversal=true&color=gradient&text=Hi_👋,I'm_Samuel.Felipe&animation=blinking&fontColor=d6ace6&fontSize=40)
+![header](https://capsule-render.vercel.app/api?&type=waving&reversal=true&color=gradient&animation=blinking&fontColor=d6ace6&fontSize=40)
 
+<h1 align="center">Hi👋I'm Samuel.Felipe</h1>
 <h3 align="center">A passionate backend developer from Philippines</h3>
 <img align = "right" alt = "coding" width = "400" src = "https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" />
 
