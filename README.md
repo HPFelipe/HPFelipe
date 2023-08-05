@@ -1,4 +1,5 @@
 ![](https://github.com/HPFelipe/HPFelipe/blob/main/logo3.PNG?raw=true)
+![header](https://capsule-render.vercel.app/api?&type=transparent&reversal=true&color=gradient&text=SAMUELREYESFELIPE&animation=blinking&fontColor=d6ace6)
 <h1 align="center">Hi 👋, I'm Samuel Reyes Felipe</h1>
 <h3 align="center">A passionate backend developer from Philippines</h3>
 <img align = "right" alt = "coding" width = "400" src = "https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" />
