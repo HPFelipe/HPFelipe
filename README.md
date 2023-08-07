@@ -6,7 +6,7 @@
 <div align = "center">
 <img src = "https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" width= "600" height="300" />
 </div>
-<p align="lef"> <img src="https://komarev.com/ghpvc/?username=hpfelipe&label=Profile%20views&color=0e75b6&style=flat" alt="hpfelipe" /> </p>
+<hr><p align="lef"> <img src="https://komarev.com/ghpvc/?username=hpfelipe&label=Profile%20views&color=0e75b6&style=flat" alt="hpfelipe" /> </p></hr>
 
 <h3 align="left"> :hammer_and_wrench:Languages and Tools:</h3>
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
@@ -21,6 +21,6 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> </a> </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hpfelipe&show_icons=true&locale=en" alt="hpfelipe" /></p>
+<hr><p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hpfelipe&show_icons=true&locale=en" alt="hpfelipe" /></p></hr>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hpfelipe&" alt="hpfelipe" /></p>
+<hr><p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hpfelipe&" alt="hpfelipe" /></p></hr>
